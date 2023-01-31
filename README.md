@@ -1,2 +1,4 @@
 # Cleaning-and-Exploring-PPP-Loan-Data-Python
 Utilizing Python to import data from both Excel and .CSV files from the Small Business Administrations' (SBA) Paycheck Protection Program. The process of cleaning the data and preparing it for analytical purposes is also covered. Analysis utilizes the pandas, NumPy, matplotlib, and the seaborn libraries to gain insights.
+
+At one point in time, the Small Business Administration (SBA) had kept their Paycheck Protection Loan data private. But in 2020, a court order changed that. Judge James Boasberg ordered the SBA to release all the information about the loans given to private companies under the Freedom of Information Act (FOIA). This meant that the public would finally get to see the names, addresses, and exact loan amounts of all the PPP and EIDL borrowers.
